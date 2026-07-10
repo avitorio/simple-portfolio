@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "Fri, 10 Jul 2026 03:10:29 GMT",
+  "commit": "963c6dab713b1466341caffe1d7b6f129b1c2d3d",
+  "generated": "2026-07-10T03:28:51.529Z",
   "metadata": [
     {
       "__outstatic": {
@@ -73,11 +73,14 @@
     },
     {
       "__outstatic": {
-        "commit": "adc2d22cbf1d9bdf6bc123fb9795cba78e9c1423",
-        "hash": "2427649653",
+        "commit": "963c6dab713b1466341caffe1d7b6f129b1c2d3d",
+        "hash": "411442676",
         "path": "src/content/posts/customizing-theme-color-schemes.md"
       },
-      "author": "VicBox",
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
       "collection": "posts",
       "cover": {
         "alt": "Customizing color schemes",
@@ -85,7 +88,9 @@
       },
       "description": "A complete guide on how to customize user information in this Astro Simple Portfolio theme.",
       "publishDate": "2024-12-20T15:20:35.000Z",
+      "publishedAt": "2026-07-10T03:10:44.147Z",
       "slug": "customizing-theme-color-schemes",
+      "status": "published",
       "tags": [
         "color-schemes",
         "docs"
