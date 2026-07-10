@@ -1,0 +1,96 @@
+{
+  "commit": "",
+  "generated": "Fri, 10 Jul 2026 03:10:29 GMT",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "a2ab32f5f2feae9f194ef085715848892431760c",
+        "hash": "4008859423",
+        "path": "src/content/posts/customizing-user-information.mdx"
+      },
+      "author": "VicBox",
+      "collection": "posts",
+      "cover": {
+        "alt": "Customizing AstroPaper theme color schemes",
+        "src": "./images/customizing-user-information/cover.webp"
+      },
+      "description": "A complete guide on how to customize user information in this Astro Simple Portfolio theme.",
+      "publishDate": "2024-12-20T16:20:35.000Z",
+      "slug": "customizing-user-informationx",
+      "tags": [
+        "general",
+        "docs"
+      ],
+      "title": "Customizing User Information"
+    },
+    {
+      "__outstatic": {
+        "commit": "51f3ae1def879a20c0ffb3bfd775d7fee3cf61c6",
+        "hash": "299479880",
+        "path": "src/content/projects/finance-app.mdx"
+      },
+      "author": "John Doe",
+      "collection": "projects",
+      "cover": "./images/budget-wise/finance_app_concept.webp",
+      "endDate": "2024-04-09T00:00:00.000Z",
+      "ogImage": "./images/budget-wise/og-finance_app.webp",
+      "slug": "finance-appx",
+      "startDate": "2024-04-07T00:00:00.000Z",
+      "summary": "Manage your personal finances with ease using this mobile app concept. Track your expenses, set budgets, and visualize your spending habits. Built with React Native, Expo, Clerk, Firebase, and Tailwind.",
+      "tags": [
+        "React Native",
+        "Expo",
+        "Clerk",
+        "Firebase",
+        "Tailwind"
+      ],
+      "title": "BudgetWise App",
+      "url": "https://google.com"
+    },
+    {
+      "__outstatic": {
+        "commit": "6432258289f65e5b87909e247cbbba33593e25a8",
+        "hash": "4242764261",
+        "path": "src/content/projects/pro-accountant.mdx"
+      },
+      "author": "VicBox",
+      "collection": "projects",
+      "cover": "./images/pro-accountant/accnt.webp",
+      "endDate": "2024-12-20T00:00:00.000Z",
+      "ogImage": "./images/pro-accountant/accnt.webp",
+      "slug": "pro-accountantx",
+      "startDate": "2024-12-20T00:00:00.000Z",
+      "summary": "Professional Accounting Services Website built with Next.js, Tailwind CSS, TypeScript, and ShadCN. The site showcases accounting services, features a contact form, and offers a blog section to establish the accountant as an authority in the field.",
+      "tags": [
+        "React",
+        "Next.js",
+        "ContentFull",
+        "Motion",
+        "Tailwind"
+      ],
+      "title": "ProAccountant Website",
+      "url": "https://google.com"
+    },
+    {
+      "__outstatic": {
+        "commit": "adc2d22cbf1d9bdf6bc123fb9795cba78e9c1423",
+        "hash": "2427649653",
+        "path": "src/content/posts/customizing-theme-color-schemes.md"
+      },
+      "author": "VicBox",
+      "collection": "posts",
+      "cover": {
+        "alt": "Customizing color schemes",
+        "src": "./images/customizing-theme-color-schemes/cover.webp"
+      },
+      "description": "A complete guide on how to customize user information in this Astro Simple Portfolio theme.",
+      "publishDate": "2024-12-20T15:20:35.000Z",
+      "slug": "customizing-theme-color-schemes",
+      "tags": [
+        "color-schemes",
+        "docs"
+      ],
+      "title": "Customizing color schemes of Astro Simple Portfolio"
+    }
+  ]
+}
