@@ -1,0 +1,19 @@
+{
+  "title": "posts",
+  "type": "object",
+  "properties": {
+    "publishDate": {
+      "title": "PublishDate",
+      "fieldType": "Date",
+      "dataType": "date",
+      "required": false
+    },
+    "tags": {
+      "title": "Tags",
+      "fieldType": "Array",
+      "dataType": "array",
+      "required": false,
+      "itemType": "String"
+    }
+  }
+}
