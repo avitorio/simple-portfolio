@@ -33,8 +33,8 @@
           "title": "src",
           "description": "",
           "required": false,
-          "fieldType": "Image",
-          "dataType": "image"
+          "fieldType": "String",
+          "dataType": "string"
         },
         "alt": {
           "title": "alt",
