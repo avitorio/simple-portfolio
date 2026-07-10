@@ -21,6 +21,29 @@
       "required": false,
       "fieldType": "Text",
       "dataType": "string"
+    },
+    "cover": {
+      "title": "Cover",
+      "description": "",
+      "required": false,
+      "fieldType": "Object",
+      "dataType": "object",
+      "fields": {
+        "src": {
+          "title": "src",
+          "description": "",
+          "required": false,
+          "fieldType": "String",
+          "dataType": "string"
+        },
+        "alt": {
+          "title": "alt",
+          "description": "",
+          "required": false,
+          "fieldType": "String",
+          "dataType": "string"
+        }
+      }
     }
   }
 }
