@@ -7,6 +7,14 @@
       "fieldType": "Date",
       "dataType": "date",
       "required": false
+    },
+    "tags": {
+      "title": "Tags",
+      "description": "",
+      "required": false,
+      "fieldType": "Array",
+      "dataType": "array",
+      "itemType": "String"
     }
   }
 }
