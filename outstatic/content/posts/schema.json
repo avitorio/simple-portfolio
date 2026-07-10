@@ -1,0 +1,32 @@
+{
+  "title": "posts",
+  "type": "object",
+  "properties": {
+    "publishDate": {
+      "title": "PublishDate",
+      "fieldType": "Date",
+      "dataType": "date",
+      "required": false
+    },
+    "tags": {
+      "title": "Tags",
+      "fieldType": "Tags",
+      "dataType": "array",
+      "required": false,
+      "values": [
+        {
+          "label": "color-schemes",
+          "value": "color-schemes"
+        },
+        {
+          "label": "docs",
+          "value": "docs"
+        },
+        {
+          "label": "general",
+          "value": "general"
+        }
+      ]
+    }
+  }
+}

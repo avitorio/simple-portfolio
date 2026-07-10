@@ -1,0 +1,86 @@
+{
+  "title": "projects",
+  "type": "object",
+  "properties": {
+    "cover": {
+      "title": "Cover",
+      "fieldType": "Image",
+      "dataType": "image",
+      "required": false
+    },
+    "endDate": {
+      "title": "EndDate",
+      "fieldType": "Date",
+      "dataType": "date",
+      "required": false
+    },
+    "ogImage": {
+      "title": "OgImage",
+      "fieldType": "Image",
+      "dataType": "image",
+      "required": false
+    },
+    "startDate": {
+      "title": "StartDate",
+      "fieldType": "Date",
+      "dataType": "date",
+      "required": false
+    },
+    "summary": {
+      "title": "Summary",
+      "fieldType": "Text",
+      "dataType": "string",
+      "required": false
+    },
+    "tags": {
+      "title": "Tags",
+      "fieldType": "Tags",
+      "dataType": "array",
+      "required": false,
+      "values": [
+        {
+          "label": "React Native",
+          "value": "React Native"
+        },
+        {
+          "label": "Expo",
+          "value": "Expo"
+        },
+        {
+          "label": "Clerk",
+          "value": "Clerk"
+        },
+        {
+          "label": "Firebase",
+          "value": "Firebase"
+        },
+        {
+          "label": "Tailwind",
+          "value": "Tailwind"
+        },
+        {
+          "label": "React",
+          "value": "React"
+        },
+        {
+          "label": "Next.js",
+          "value": "Next.js"
+        },
+        {
+          "label": "ContentFull",
+          "value": "ContentFull"
+        },
+        {
+          "label": "Motion",
+          "value": "Motion"
+        }
+      ]
+    },
+    "url": {
+      "title": "Url",
+      "fieldType": "String",
+      "dataType": "string",
+      "required": false
+    }
+  }
+}
