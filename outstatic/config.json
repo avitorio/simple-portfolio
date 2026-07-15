@@ -1,0 +1,26 @@
+{
+  "media": [
+    {
+      "categories": [
+        "image"
+      ],
+      "input": "src/content",
+      "label": "Images",
+      "name": "images",
+      "output": "./",
+      "recursive": true,
+      "reference": {
+        "basePath": "./",
+        "type": "public"
+      }
+    }
+  ],
+  "mediaUpload": {
+    "mode": "choose",
+    "sources": [
+      "images"
+    ]
+  },
+  "publicMediaPath": "./",
+  "repoMediaPath": "src/content/"
+}
