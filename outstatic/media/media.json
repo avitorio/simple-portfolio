@@ -1,0 +1,114 @@
+{
+  "commit": "",
+  "generated": "2026-07-15T23:21:29.346Z",
+  "media": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "2546413787",
+        "path": "src/content/projects/images/pro-accountant/accnt.webp"
+      },
+      "alt": "",
+      "filename": "accnt.webp",
+      "publishedAt": "2026-07-15T23:21:29.047Z",
+      "source": "images",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "1938125728",
+        "path": "src/content/posts/images/customizing-theme-color-schemes/cover.webp"
+      },
+      "alt": "",
+      "filename": "cover.webp",
+      "publishedAt": "2026-07-15T23:21:29.047Z",
+      "source": "images",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "3287130303",
+        "path": "src/content/posts/images/customizing-user-information/cover.webp"
+      },
+      "alt": "",
+      "filename": "cover.webp",
+      "publishedAt": "2026-07-15T23:21:29.047Z",
+      "source": "images",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "3702173357",
+        "path": "src/content/projects/images/budget-wise/finance1.webp"
+      },
+      "alt": "",
+      "filename": "finance1.webp",
+      "publishedAt": "2026-07-15T23:21:29.047Z",
+      "source": "images",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "225628219",
+        "path": "src/content/projects/images/budget-wise/finance_app_concept.webp"
+      },
+      "alt": "",
+      "filename": "finance_app_concept.webp",
+      "publishedAt": "2026-07-15T23:21:29.047Z",
+      "source": "images",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "562945196",
+        "path": "src/content/projects/images/budget-wise/fincs.webp"
+      },
+      "alt": "",
+      "filename": "fincs.webp",
+      "publishedAt": "2026-07-15T23:21:29.047Z",
+      "source": "images",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "1542152467",
+        "path": "src/content/projects/images/budget-wise/og-finance_app.webp"
+      },
+      "alt": "",
+      "filename": "og-finance_app.webp",
+      "publishedAt": "2026-07-15T23:21:29.047Z",
+      "source": "images",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "4281492669",
+        "path": "src/content/projects/images/pro-accountant/statistics.webp"
+      },
+      "alt": "",
+      "filename": "statistics.webp",
+      "publishedAt": "2026-07-15T23:21:29.047Z",
+      "source": "images",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "1331902094",
+        "path": "src/content/projects/images/budget-wise/statistics2.webp"
+      },
+      "alt": "",
+      "filename": "statistics2.webp",
+      "publishedAt": "2026-07-15T23:21:29.047Z",
+      "source": "images",
+      "type": "image"
+    }
+  ]
+}
