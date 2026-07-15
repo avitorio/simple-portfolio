@@ -1,0 +1,54 @@
+{
+  "commit": "",
+  "generated": "2026-07-15T01:59:45.797Z",
+  "media": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "3410450358",
+        "path": "public/favicon.png"
+      },
+      "alt": "",
+      "filename": "favicon.png",
+      "publishedAt": "2026-07-15T01:59:44.901Z",
+      "source": "images",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "2036827287",
+        "path": "public/favicon.svg"
+      },
+      "alt": "",
+      "filename": "favicon.svg",
+      "publishedAt": "2026-07-15T01:59:44.901Z",
+      "source": "images",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "1903164867",
+        "path": "public/logo.png"
+      },
+      "alt": "",
+      "filename": "logo.png",
+      "publishedAt": "2026-07-15T01:59:44.901Z",
+      "source": "images",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "2735687233",
+        "path": "public/og-image.webp"
+      },
+      "alt": "",
+      "filename": "og-image.webp",
+      "publishedAt": "2026-07-15T01:59:44.901Z",
+      "source": "images",
+      "type": "image"
+    }
+  ]
+}
