@@ -1,0 +1,49 @@
+{
+  "title": "projects",
+  "type": "object",
+  "properties": {
+    "cover": {
+      "title": "Cover",
+      "fieldType": "Image",
+      "dataType": "image",
+      "required": false
+    },
+    "endDate": {
+      "title": "EndDate",
+      "fieldType": "Date",
+      "dataType": "date",
+      "required": false
+    },
+    "ogImage": {
+      "title": "OgImage",
+      "fieldType": "Image",
+      "dataType": "image",
+      "required": false
+    },
+    "startDate": {
+      "title": "StartDate",
+      "fieldType": "Date",
+      "dataType": "date",
+      "required": false
+    },
+    "summary": {
+      "title": "Summary",
+      "fieldType": "Text",
+      "dataType": "string",
+      "required": false
+    },
+    "tags": {
+      "title": "Tags",
+      "fieldType": "Array",
+      "dataType": "array",
+      "required": false,
+      "itemType": "String"
+    },
+    "url": {
+      "title": "Url",
+      "fieldType": "String",
+      "dataType": "string",
+      "required": false
+    }
+  }
+}
