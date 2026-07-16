@@ -1,6 +1,6 @@
 {
-  "commit": "724758fc580a1638f7bdd10ebe58e54f625cbfe5",
-  "generated": "2026-07-16T18:22:26.381Z",
+  "commit": "7296f6e7231b0b6dde9ad9ce2960c094d2c0c3b0",
+  "generated": "2026-07-16T18:23:12.706Z",
   "metadata": [
     {
       "__outstatic": {
@@ -59,6 +59,32 @@
       ],
       "title": "BudgetWise App",
       "url": "https://google.com"
+    },
+    {
+      "__outstatic": {
+        "commit": "7296f6e7231b0b6dde9ad9ce2960c094d2c0c3b0",
+        "hash": "46236334",
+        "path": "src/content/posts/customizing-theme-color-schemes.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "posts",
+      "cover": {
+        "alt": "Customizing color schemes",
+        "src": "./images/customizing-theme-color-schemes/cover.webp"
+      },
+      "description": "A complete guide on how to customize user information in this Astro Simple Portfolio theme.",
+      "publishDate": "2024-12-20T15:20:35.000Z",
+      "publishedAt": "2026-07-16T18:23:02.779Z",
+      "slug": "customizing-theme-color-schemes",
+      "status": "draft",
+      "tags": [
+        "color-schemes",
+        "docs"
+      ],
+      "title": "Customizing color schemes of Astro Simple Portfolio"
     }
   ]
 }
