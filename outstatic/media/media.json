@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "2026-07-15T23:21:29.346Z",
+  "commit": "862ba0369c9f4d8a8f63863cfa088d464917ce8e",
+  "generated": "2026-07-16T00:39:04.638Z",
   "media": [
     {
       "__outstatic": {
@@ -71,6 +71,18 @@
       "alt": "",
       "filename": "fincs.webp",
       "publishedAt": "2026-07-15T23:21:29.047Z",
+      "source": "images",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "862ba0369c9f4d8a8f63863cfa088d464917ce8e",
+        "hash": "848563354",
+        "path": "src/content/projects/images/new-folder/frame-16003-k2OD.png"
+      },
+      "alt": "",
+      "filename": "frame-16003-k2OD.png",
+      "publishedAt": "2026-07-16T00:39:04.633Z",
       "source": "images",
       "type": "image"
     },
