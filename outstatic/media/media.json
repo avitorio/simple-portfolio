@@ -1,6 +1,6 @@
 {
-  "commit": "82835c757336b800b6d74e567d0a9931c480e2f1",
-  "generated": "2026-07-16T01:01:46.983Z",
+  "commit": "34ae0093059d70110805257cc3b79730bb884480",
+  "generated": "2026-07-16T01:03:11.034Z",
   "media": [
     {
       "__outstatic": {
@@ -107,6 +107,18 @@
       "alt": "",
       "filename": "og-I1Nz.png",
       "publishedAt": "2026-07-16T01:01:47.968Z",
+      "source": "images",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "34ae0093059d70110805257cc3b79730bb884480",
+        "hash": "2106452168",
+        "path": "src/content/projects/images/pro-accountant/og-U2Nj.png"
+      },
+      "alt": "",
+      "filename": "og-U2Nj.png",
+      "publishedAt": "2026-07-16T01:03:11.519Z",
       "source": "images",
       "type": "image"
     },
