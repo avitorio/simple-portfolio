@@ -1,0 +1,18 @@
+{
+  "commit": "",
+  "generated": "2026-07-16T18:17:39.401Z",
+  "media": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "848563354",
+        "path": "src/content/projects/images/pro-accountant/frame-16003-Y5MT.png"
+      },
+      "alt": "",
+      "filename": "frame-16003-Y5MT.png",
+      "publicPath": "./images/pro-accountant/frame-16003-Y5MT.png",
+      "publishedAt": "2026-07-16T18:17:39.400Z",
+      "type": "image"
+    }
+  ]
+}

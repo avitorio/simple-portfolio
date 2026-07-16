@@ -1,0 +1,35 @@
+{
+  "commit": "",
+  "generated": "2026-07-16T18:17:39.401Z",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "3983935207",
+        "path": "src/content/projects/pro-accountant.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "projects",
+      "cover": "./images/pro-accountant/accnt.webp",
+      "endDate": "2024-12-20T00:00:00.000Z",
+      "ogImage": "./images/pro-accountant/accnt.webp",
+      "publishedAt": "2026-07-15T23:24:03.226Z",
+      "slug": "pro-accountant",
+      "startDate": "2024-12-20T00:00:00.000Z",
+      "status": "draft",
+      "summary": "Professional Accounting Services Website built with Next.js, Tailwind CSS, TypeScript, and ShadCN. The site showcases accounting services, features a contact form, and offers a blog section to establish the accountant as an authority in the field.",
+      "tags": [
+        "React",
+        "Next.js",
+        "ContentFull",
+        "Motion",
+        "Tailwind"
+      ],
+      "title": "ProAccountant Website",
+      "url": "https://google.com"
+    }
+  ]
+}
