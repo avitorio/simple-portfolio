@@ -1,11 +1,11 @@
 {
-  "commit": "862ba0369c9f4d8a8f63863cfa088d464917ce8e",
-  "generated": "2026-07-16T00:39:04.638Z",
+  "commit": "26d7b6ed71cdc7660cbe94f8c727fbed4296982c",
+  "generated": "2026-07-16T00:53:20.113Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "862ba0369c9f4d8a8f63863cfa088d464917ce8e",
-        "hash": "4227583081",
+        "commit": "26d7b6ed71cdc7660cbe94f8c727fbed4296982c",
+        "hash": "2409510076",
         "path": "src/content/projects/pro-accountant.mdx"
       },
       "author": {
