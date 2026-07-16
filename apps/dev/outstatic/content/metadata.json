@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "2026-07-16T18:17:39.401Z",
+  "commit": "724758fc580a1638f7bdd10ebe58e54f625cbfe5",
+  "generated": "2026-07-16T18:22:26.381Z",
   "metadata": [
     {
       "__outstatic": {
@@ -29,6 +29,35 @@
         "Tailwind"
       ],
       "title": "ProAccountant Website",
+      "url": "https://google.com"
+    },
+    {
+      "__outstatic": {
+        "commit": "724758fc580a1638f7bdd10ebe58e54f625cbfe5",
+        "hash": "4143371785",
+        "path": "src/content/projects/finance-app.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "projects",
+      "cover": "./images/budget-wise/finance_app_concept.webp",
+      "endDate": "2024-04-09T00:00:00.000Z",
+      "ogImage": "./images/budget-wise/og-finance_app.webp",
+      "publishedAt": "2026-07-16T18:22:13.563Z",
+      "slug": "finance-app",
+      "startDate": "2024-04-07T00:00:00.000Z",
+      "status": "draft",
+      "summary": "Manage your personal finances with ease using this mobile app concept. Track your expenses, set budgets, and visualize your spending habits. Built with React Native, Expo, Clerk, Firebase, and Tailwind.",
+      "tags": [
+        "React Native",
+        "Expo",
+        "Clerk",
+        "Firebase",
+        "Tailwind"
+      ],
+      "title": "BudgetWise App",
       "url": "https://google.com"
     }
   ]
